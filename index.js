@@ -1,5 +1,5 @@
 const debug = require('debug')('thinknet')
-const Router = require('thinknet')
+const {Router} = require('thinknet')
 
 class RouterSimple extends Router {
   constructor(opt = {}) {

@@ -3,4 +3,4 @@ simple router for ThinkNet, an easy to use and koa.js or express.js middleware s
 
 # Usage
 
-check [thinknet](/imnemo/thinknet) and [thinknet-examples](/imnemo/thinknet-examples) for more details
+check [thinknet](https://github.com/imnemo/thinknet) and [thinknet-examples](https://github.com/imnemo/thinknet-examples) for more details
